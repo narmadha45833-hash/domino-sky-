@@ -1,0 +1,8 @@
+{
+  "name": "DOMINO SKY — Flight Disruption Cascade & Recovery Simulator",
+  "description": "AI-powered airline operations control centre and deterministic flight disruption cascade & recovery simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
